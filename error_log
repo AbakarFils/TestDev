@@ -1,0 +1,116 @@
+[26-Sep-2017 13:44:15 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:27:17 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:27:17 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:28:40 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:29:18 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:29:22 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:53:23 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 07:59:55 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 10:20:51 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 10:45:11 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[27-Sep-2017 10:45:16 America/Chicago] PHP Fatal error:  Call to a member function model() on a non-object in /home/simen/public_html/planete/application/controllers/C_sys_profil.php on line 12
+[28-Sep-2017 08:59:10 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_classe_pedagogique_by_section() in /home/simen/public_html/planete/application/controllers/C_affecter_eleve.php on line 31
+[28-Sep-2017 08:59:12 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_classe_pedagogique_by_section() in /home/simen/public_html/planete/application/controllers/C_affecter_eleve.php on line 31
+[28-Sep-2017 08:59:12 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_classe_pedagogique_by_section() in /home/simen/public_html/planete/application/controllers/C_affecter_eleve.php on line 31
+[28-Sep-2017 09:57:04 America/Chicago] PHP Fatal error:  Call to undefined function get_option_by_eleve() in /home/simen/public_html/planete/application/views/environnement_pedagogique/V_eleve_option.php on line 89
+[28-Sep-2017 09:58:08 America/Chicago] PHP Fatal error:  Call to undefined function get_option_by_eleve() in /home/simen/public_html/planete/application/views/environnement_pedagogique/V_eleve_option.php on line 89
+[28-Sep-2017 09:58:43 America/Chicago] PHP Fatal error:  Call to undefined function get_option_by_eleve() in /home/simen/public_html/planete/application/views/environnement_pedagogique/V_eleve_option.php on line 89
+[28-Sep-2017 09:58:59 America/Chicago] PHP Fatal error:  Call to undefined function get_option_by_eleve() in /home/simen/public_html/planete/application/views/environnement_pedagogique/V_eleve_option.php on line 89
+[28-Sep-2017 10:06:30 America/Chicago] PHP Fatal error:  Call to undefined method M_eleve_option::save_without_null() in /home/simen/public_html/planete/application/controllers/C_eleve_option.php on line 104
+[28-Sep-2017 10:07:09 America/Chicago] PHP Fatal error:  Call to undefined method M_eleve_option::save_without_null() in /home/simen/public_html/planete/application/controllers/C_eleve_option.php on line 104
+[29-Sep-2017 04:13:23 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_classe_pedagogique_by_section() in /home/simen/public_html/planete/application/controllers/C_affecter_eleve.php on line 31
+[29-Sep-2017 04:13:52 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_classe_pedagogique_by_section() in /home/simen/public_html/planete/application/controllers/C_eleve_option.php on line 32
+[02-Oct-2017 14:06:18 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[03-Oct-2017 03:57:07 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[03-Oct-2017 03:57:14 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[03-Oct-2017 03:58:17 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[03-Oct-2017 06:17:21 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[03-Oct-2017 11:19:00 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 79
+[03-Oct-2017 11:41:26 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 97
+[03-Oct-2017 11:41:33 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 97
+[03-Oct-2017 11:42:04 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 97
+[05-Oct-2017 14:36:43 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[06-Oct-2017 12:46:44 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[06-Oct-2017 13:03:25 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[06-Oct-2017 13:07:00 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[06-Oct-2017 13:07:15 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 56
+[06-Oct-2017 13:22:08 America/Chicago] PHP Fatal error:  Call to undefined method M_sys_role::get_data_liste() in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 17
+[06-Oct-2017 13:22:15 America/Chicago] PHP Fatal error:  Call to undefined method M_sys_role::get_data_liste() in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 17
+[06-Oct-2017 13:29:01 America/Chicago] PHP Fatal error:  Call to undefined method M_sys_role::get_data_liste() in /home/simen/public_html/planete/application/controllers/C_sys_role.php on line 17
+[09-Oct-2017 06:31:47 America/Chicago] PHP Fatal error:  Call to a member function get_db_table_by_id() on a non-object in /home/simen/public_html/planete/application/controllers/C_personnel_etablissement.php on line 140
+[09-Oct-2017 06:31:53 America/Chicago] PHP Fatal error:  Call to a member function get_db_table_by_id() on a non-object in /home/simen/public_html/planete/application/controllers/C_personnel_etablissement.php on line 140
+[16-Oct-2017 06:26:08 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 97
+[16-Oct-2017 06:26:15 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 97
+[16-Oct-2017 06:26:22 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_pedagogique::get_db_table_by_id() in /home/simen/public_html/planete/application/controllers/C_classe_pedagogiques.php on line 97
+[17-Oct-2017 06:10:16 America/Chicago] PHP Fatal error:  Call to a member function get_db_table_by_id() on a non-object in /home/simen/public_html/planete/application/controllers/C_personnel_etablissement.php on line 140
+[17-Oct-2017 06:10:31 America/Chicago] PHP Fatal error:  Call to a member function get_db_table_by_id() on a non-object in /home/simen/public_html/planete/application/controllers/C_personnel_etablissement.php on line 140
+[17-Oct-2017 09:53:19 America/Chicago] PHP Fatal error:  Call to a member function get_db_table_by_id() on a non-object in /home/simen/public_html/planete/application/controllers/C_personnel_etablissement.php on line 140
+[18-Oct-2017 10:52:59 America/Chicago] PHP Fatal error:  Call to a member function get_db_table_by_id() on a non-object in /home/simen/public_html/planete/application/controllers/C_personnel_etablissement.php on line 140
+[19-Oct-2017 06:46:44 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Oct-2017 06:47:05 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[24-Oct-2017 08:32:01 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[24-Oct-2017 08:32:09 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[25-Oct-2017 12:42:45 America/Chicago] PHP Fatal error:  require(): Failed opening required 'http://planete.simendev.com/vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home/simen/public_html/planete/application/controllers/Welcome.php on line 29
+[25-Oct-2017 12:44:20 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 12:45:56 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 12:46:53 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:02:29 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:02:32 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:03:13 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:03:16 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:04:51 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:05:28 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:05:40 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:09:10 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:09:59 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:10:08 America/Chicago] PHP Fatal error:  Class 'Stevenmaguire\OAuth2\Client\Provider\Keycloak' not found in /home/simen/public_html/planete/application/controllers/Welcome.php on line 33
+[25-Oct-2017 13:13:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/simen/public_html/planete/vendor/league/oauth2-client/src/Grant/GrantFactory.php on line 85
+[25-Oct-2017 13:14:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/simen/public_html/planete/vendor/league/oauth2-client/src/Grant/GrantFactory.php on line 85
+[27-Oct-2017 15:49:46 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[27-Oct-2017 15:50:12 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[27-Oct-2017 15:52:25 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 20
+[30-Oct-2017 11:12:00 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[02-Nov-2017 05:00:40 America/Chicago] PHP Fatal error:  require(): Failed opening required 'application/core/ssp.customized.class.php' (include_path='.:/opt/php54/lib/php') in /home/simen/public_html/planete/application/models/M_gestion_eleve.php on line 24
+[02-Nov-2017 05:00:50 America/Chicago] PHP Fatal error:  require(): Failed opening required 'application/core/ssp.customized.class.php' (include_path='.:/opt/php54/lib/php') in /home/simen/public_html/planete/application/models/M_gestion_eleve.php on line 24
+[02-Nov-2017 05:07:52 America/Chicago] PHP Fatal error:  Call to undefined method M_table_param::get_list_type_groupesanguin() in /home/simen/public_html/planete/application/controllers/C_gestion_eleve.php on line 52
+[02-Nov-2017 05:09:38 America/Chicago] PHP Fatal error:  Call to undefined function date_parse_en2fr() in /home/simen/public_html/planete/application/views/environnement_pedagogique/V_dossier_eleve.php on line 48
+[02-Nov-2017 05:10:16 America/Chicago] PHP Fatal error:  Call to undefined function jr_en_fr() in /home/simen/public_html/planete/application/controllers/Accueil.php on line 55
+[02-Nov-2017 05:34:40 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[02-Nov-2017 05:34:46 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 20
+[06-Nov-2017 04:16:29 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 04:16:38 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 04:17:00 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 04:17:02 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 20
+[06-Nov-2017 04:17:07 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 04:17:08 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 04:17:09 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 04:17:09 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[06-Nov-2017 06:46:36 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[14-Nov-2017 09:19:18 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[14-Nov-2017 09:19:26 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[23-Nov-2017 08:47:40 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[23-Nov-2017 08:47:48 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[23-Nov-2017 08:47:51 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[23-Nov-2017 08:47:58 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[05-Dec-2017 15:49:13 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[13-Dec-2017 07:51:59 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[13-Dec-2017 09:42:46 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[16-Dec-2017 10:10:37 America/Chicago] PHP Fatal error:  Call to undefined method M_affectation_enseignant_classe::discipline_enseignant() in /home/simen/public_html/planete/application/controllers/C_api.php on line 281
+[16-Dec-2017 10:10:37 America/Chicago] PHP Fatal error:  Call to undefined method M_classe_physique::list_salles_etab() in /home/simen/public_html/planete/application/controllers/C_api.php on line 333
+[19-Dec-2017 03:20:56 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:08 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:11 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:12 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:12 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:13 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:13 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:14 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:18 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:24 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:32 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[19-Dec-2017 03:21:43 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[20-Dec-2017 08:24:01 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[24-Dec-2017 17:16:03 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[24-Dec-2017 17:16:23 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
+[28-Dec-2017 05:59:15 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/simen/public_html/planete/application/helpers/global_helper.php on line 5
